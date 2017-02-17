@@ -1,3 +1,5 @@
+import Foundation
+
 struct mortgagePackage {
 
     func monthlyPayment( newL: Double, newC : Double, newN : Double) -> Double {
